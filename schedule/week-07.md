@@ -1,0 +1,32 @@
+## Week 7: Privacy
+
+
+### Readings to be presented
+
+
+
+### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
+
+  - [A Taxonomy of Privacy](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1376&context=penn_law_review), by Solove. (Please read up to page 491; that is, right before the section “Information collection”).
+  - [Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags.
+  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti.
+
+
+### Async responses/reflections due
+
+  - 8: More Usable Security
+
+
+### Assignments due
+
+  - [Identify flaws in a study design](/assignments/study-design-flaws.md). Please submit your work in the slot "*Assignment 7*" in ISVC.
+  - Prepare to discuss your progress on your project proposal so you can get more feedback before it’s due at Week 8.
+
+
+### Synchronous discussion agenda
+
+  - Discussion of assignment
+
+  - Paper discussions
+
+  - Project Q&A (rest of time available)
