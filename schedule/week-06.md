@@ -6,9 +6,10 @@
 
 ### Readings to be presented
 
+  - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo. **Discussion lead: Robert Crawford**
+
 ### Readings you may choose to present (students not presenting should read 1 and skim 1)
 
-  - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo.
   - [The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al.
 
 
