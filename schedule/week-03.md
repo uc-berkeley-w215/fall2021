@@ -29,14 +29,22 @@ Also: remember to work on your IRB training, due on [Week 4](./week-04.md).
 	
 	> *“Imagine you are the head of engineering for a software company. Based on reports from customers, you are aware of some usability issues in the latest version of your product. How would you go about designing a study to determine how prevalent this problem is across your user base?”*
 
-The class will be split into groups of 3 students, so that each group designs a study to examine one of the following products and associated usability issues:
+The class will be split into groups of 3-4 students, so that each group designs a study to examine one of the following products and associated usability issues:
 
-1. *Phone lock screen software*: users complain about it taking too much time to login.
+1. *Phone lock screen software*: users complain about it taking too much time to unlock their phone.
 
-1. *Photo-sharing software*: users complain upon discovering that all of their photos are publicly-accessible.
+1. *Photo-sharing software*: users complain upon discovering that all of their photos are publicly accessible.
 
-1. *Secure messaging software*: users complain about not understanding how to verify that the people with whom they communicate via the software are the people they believe them to be. Some people have even reported cases of impersonation.
+1. *Secure messaging software*: users complain that they do not understand how to verify the identities of the people they communicate with.  Some people have even reported cases of impersonation.
 
 1. *Social media authentication*: users complain that they cannot log into their accounts when they have multiple devices.
+
+Here are some questions you should consider:
+
+1. What kind of study would you conduct? A lab study? A field study? Why?
+1. What are you going to measure? How are you going to measure it?
+1. What are your dependent and independent variables?
+1. What are some confounding variables? What sources of errors and problems might you have?
+1. How are you recruiting users to evaluate the product?
 
 Please be aware that descriptions above are (purposefully) incomplete; use the assigned sync time to attempt to define exactly what is the question you would like to have answered to improve your product, and how human subjects may help you answer that question. This discussion will be wrapped up during Week 4, where you will read about research methods to complete your task.
