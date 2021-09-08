@@ -6,10 +6,10 @@
 
   - W215 [Project Guidelines](/project/)  (guidelines for *your* course project)
 
-  - [When Security Gets in the Way](https://jnd.org/when_security_gets_in_the_way/), by Don Norman.
-  
 ### Readings to be presented
 
+  - [When Security Gets in the Way](https://jnd.org/when_security_gets_in_the_way/), by Don Norman. **Discussion lead: Nathan Wiebe**
+  
   - [A Large-Scale Study of Web Password Habits](https://cormac.herley.org/docs/www2007.pdf), by Florencio & Herley (2007). **Discussion lead: Justin Wasden**
   
 ### Readings you may choose to present (students not presenting should read at least 1 and skim 1)
