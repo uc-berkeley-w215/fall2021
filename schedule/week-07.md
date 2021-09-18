@@ -7,9 +7,10 @@
 
   - [Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags. **Discussion lead: Nathan Wiebe**
 
+  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti. **Discussion lead: Rose Gomes**
+
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
-  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti.
   - [Privacy as Intellectual Property?](https://people.ischool.berkeley.edu/~pam/papers/privasip_draft.pdf) by Pamela Samuelson (2000).
 
 
